@@ -280,9 +280,9 @@ proxy-groups:
   - name: 🔆 LIST
     type: select
     proxies:
-      - Optimal ♻️
-      - 🔰 Select
-  - name: 🔰 Select
+      - Automatic ♻️
+      - 🔰 Manual
+  - name: 🔰 Manual
     type: select
     proxies:
       - Norway 1
@@ -544,7 +544,7 @@ proxy-groups:
       - 🇨🇦 Canada 69
       - 🇨🇦 Canada 70
       - 🇨🇦 Canada 71
-  - name: Optimal ♻️
+  - name: Automatic ♻️
     type: url-test
     proxies:
       - Norway 1
